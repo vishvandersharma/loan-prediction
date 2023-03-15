@@ -7,4 +7,4 @@ Here are the steps:
 EDA
 Feature Engineering
 Model Selection and Model Evolution
-I have used  here : -Logistic Regression 
+I have used  here : -leniear Regression , ols method
